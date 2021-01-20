@@ -1,0 +1,36 @@
+PRIVACY POLICY
+
+
+MEDIA TEAM'S STATEMENT OF PRIVACY PROTECTION
+
+MediaTeam (Text to Photo, Picee, Video Maker) attaches great importance to protecting your privacy. Before using the services or apps provided by MediaTeam , please read carefully the following statements.
+
+In order to provide more accurate and well-targeted services, MediaTeam may use personal information submitted by you in the manners mentioned below; nevertheless, MediaTeam  will treat such information with a high level duty of diligence. Without your permission, MediaTeam  will not disclose such information or provide such information to any third party.
+
+
+
+Protecting YOUR Privacy
+
+It is MediaTeam 's principle to respect the privacy of the personal information of our users. MediaTeam   will take reasonable measures to protect user's personal information, without disclosing such information to any third party other than its Partners (without the consent of the user), unless such disclosure is required by law, court order or competent government departments or agreed to by the user. Exceptions will be applied if the user selects to accept such disclosures during the registration process (where applicable), or is otherwise stipulated on the disclosure or use of a user's personal information between the user and MediaTeam  and its Partners. The user shall bear any risks that may arise from any authorized disclosure of a user's personal information. For the operation and improvement of MediaTeam 's technologies and services, MediaTeam may collect and use the non-personal information of its users, or provide such information to third parties, in order to provide better user experience and improve the quality of our services.
+
+
+
+Permission
+
+This app uses the Device Administrator permission. 
+
+Permission android.permission.CAMERA to take photo from your camera
+
+ Permission android.permission.READ_EXTERNAL_STORAGE  to choose photo from your external storage.
+
+Permission android.permission.WRITE_EXTERNAL_STORAGE to save photo to your external storage.
+
+Permission android.permission.INTERNET to use your internet 
+
+Permission android.permission.SET_WALLPAPER to set your wallpaper
+
+
+
+If you have any questions or concerns about our privacy policies, please contact us: mediateam8888@gmail.com 
+
+THANK YOU!
