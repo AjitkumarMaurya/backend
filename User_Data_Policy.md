@@ -1,7 +1,6 @@
 
-# Project Name
+# Teen Patti Master
 
-Sure, here's an example user data protection policy that you can use as a template for your own app:
 
 # User Data Protection Policy
 
