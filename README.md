@@ -27,12 +27,13 @@ As a mobile application developer, I continuously seek to enhance my knowledge, 
 
 **Android Application Developer**  
 *Silverwing Technologies Private Limited | Ahmedabad, India*  
+*Communities Heritage Private Limited | Ahmedabad, India*  
 *January 2018 – Present*
 
 - Developed applications from scratch, ensuring successful publication on Google Play and App Store.
 - Designed, coded, and maintained high-quality, scalable applications.
 - Improved the performance of existing applications, enhancing the agility of organizations to meet changing business needs.
-
+- Manage project and team leading.
 ---
 
 ## EDUCATION
@@ -59,6 +60,14 @@ As a mobile application developer, I continuously seek to enhance my knowledge, 
 
 ## PROJECT EXPERIENCE
 
+### **OTerRi**
+An app for easier management of wordrobe and laundry.  
+[Google Play Store Link](https://play.google.com/store/apps/details?id=com.mksoterri.app)
+
+### **My Company**
+An app for easier management of company processes.  
+[Google Play Store Link](https://play.google.com/store/apps/details?id=com.mycompany.fhpl)
+
 ### **Fincasys - Society Management System**
 A comprehensive society/complex management app for residents, secretaries, and gatekeepers.  
 [Google Play Store Link](https://play.google.com/store/apps/details?id=com.fincasys.fincasysapp)
@@ -70,10 +79,6 @@ A digital platform that allows business owners to promote their businesses, prod
 ### **My Association**
 Offers several benefits to business owners participating as members.  
 [Google Play Store Link](https://play.google.com/store/apps/details?id=com.myassociation)
-
-### **My Company**
-An app for easier management of company processes.  
-[Google Play Store Link](https://play.google.com/store/apps/details?id=com.mycompany.fhpl)
 
 ### **Bombay Point**
 A customer loyalty reward system for Bombay Spices, developed in Flutter.  
